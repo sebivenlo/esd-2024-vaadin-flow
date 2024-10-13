@@ -1,0 +1,11 @@
+services:
+  vaadin-app:
+    build: .
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./src:/app/src
+      - ./target:/app/target
+    environment:
+      - SPRING_DEVTOOLS_RESTART_ENABLED=true
+      - SPRING_DEVTOOLS_ADD_PROPERTIES=true
