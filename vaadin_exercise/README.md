@@ -18,4 +18,4 @@ Spring Boot Extension Pack (Optional)
 2. Move to views\TaskForm.java and create all the fields for the task creating form.
 3. Finally move to views\MainView.java and configure the grid. You should have cleared all errors by now and the application should run as expected.
 #### Form Example
-<img src="../materials/imgs/form.png" alt="My Factorial Calculator" width="500" />\
+<img src="../materials/imgs/form.png" alt="My Factorial Calculator" width="500" />
