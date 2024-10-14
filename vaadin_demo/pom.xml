@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
     <!-- Vaadin project from https://github.com/vaadin/skeleton-starter-flow-spring -->
     <groupId>com.example</groupId>
-    <artifactId>spring-skeleton</artifactId>
-    <name>Project base for Spring Boot and Vaadin Flow</name>
+    <artifactId>vaadin-demo</artifactId>
+    <name>Vaadin Demo for ESD</name>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
